@@ -14,8 +14,8 @@
  * @file
  * @brief       Internal configuration for LSM9DS1 devices
  *
- * @author      Vincent Dupont <vincent@otakeys.com>
- * @author      Sebastian Meiling <s@mlng.net>
+ * @author      Mohamed El Machoudi <momachoudi8@gmail.com>
+ * 
  *
  */
 
