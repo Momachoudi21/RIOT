@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2017 OTA keys S.A.
+ * 
  *
  * This file is subject to the terms and conditions of the GNU Lesser
  * General Public License v2.1. See the file LICENSE in the top level
@@ -14,7 +14,7 @@
  * @file
  * @brief       Default configuration for LSM9DS1 devices
  *
- * @author      Vincent Dupont <vincent@otakeys.com>
+ * @author      Mohamed El Machoudi <momachoudi8@gmail.com>
  *
  */
 
